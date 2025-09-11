@@ -6,6 +6,7 @@ Modelo para o repositório do Projeto de Sistema Computacional para as equipes d
 O grupo deverá criar um repositório no GitHub
 
 O grupo deverá seguir no mínimo os tópicos abaixo para o seu projeto.
+# 
 
 
 
@@ -156,7 +157,7 @@ Protótipo visual ou navegável que representa a interface do sistema.
 ## ✅ Organização no GitHub
 Estrutura de diretórios sugerida:
 
-/Arquivos de Markdown do GitHub para o aluno utilizar obrigatoriamente no seu projeto.
+Arquivos de Markdown do GitHub para o aluno utilizar obrigatoriamente no seu projeto.
 
 ├── [1. Documento de Visão do Sistema](01-visao-sistema.md)
 
