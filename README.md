@@ -141,18 +141,18 @@ Protótipo visual ou navegável que representa a interface do sistema.
 ## ✅ Organização no GitHub
 Estrutura de diretórios sugerida:
 
-/docs
+/Arquivos de Markdown do GitHub para o aluno utilizar obrigatoriamente no seu projeto.
 
-├── [01-visao-sistema.md](01-visao-sistema.md)
+├── [1. Documento de Visão do Sistema](01-visao-sistema.md)
 
-├── [02-diagrama-caso-uso.png](02-diagrama-caso-uso.md)
+├── [2. Diagrama de Caso de Uso](02-diagrama-caso-uso.md)
 
-├── [03-especificacao-caso-uso.md](03-especificacao-caso-uso.md)
+├── [3. Especificação de Caso de Uso](03-especificacao-caso-uso.md)
 
-├── [04-diagrama-classes.png](04-diagrama-classes.md)
+├── [4. Diagrama de Classe](04-diagrama-classes.md)
 
-├── [05-arquitetura-sistema.md](05-arquitetura-sistema.md)
+├── [5. Documento de Arquitetura do Sistema](05-arquitetura-sistema.md)
 
-├── [06-prototipo.pdf](06-prototipo.md)
+├── [6. Protótipo do Sistema](06-prototipo.md)
 
 ---
