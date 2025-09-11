@@ -3,7 +3,7 @@ Projeto de Sistema Computacional do software "Termômetro da Felicidade".
 
 # 📘 Projeto de Sistema Computacional
 
-Modelo para o repositório do Projeto de Sistema Computacional para as equipes de aluno da disciplina Análise e Projeto de Sistemas.  
+Modelo para o repositório do Projeto de Sistema Computacional para as equipes de alunos da disciplina Análise e Projeto de Sistemas.  
 O grupo deverá seguir no mínimo os tópicos abaixo para o seu projeto.
 
 ---
