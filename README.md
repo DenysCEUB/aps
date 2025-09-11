@@ -145,14 +145,14 @@ Estrutura de diretórios sugerida:
 
 ├── [01-visao-sistema.md](01-visao-sistema.md)
 
-├── 02-diagrama-caso-uso.png
+├── [02-diagrama-caso-uso.png](02-diagrama-caso-uso.png)
 
-├── 03-especificacao-caso-uso.md
+├── [03-especificacao-caso-uso.md](03-especificacao-caso-uso.md)
 
-├── 04-diagrama-classes.png
+├── [04-diagrama-classes.png](04-diagrama-classes.png)
 
-├── 05-arquitetura-sistema.md
+├── [05-arquitetura-sistema.md](05-arquitetura-sistema.md)
 
-├── 06-prototipo.pdf
+├── [06-prototipo.pdf](06-prototipo.pdf)
 
 ---
