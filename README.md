@@ -39,7 +39,6 @@ Escopo: Cadastrar usuários, gerenciar livros, controlar empréstimos e devoluç
 Restrições: Disponível apenas via web.
 Critérios de sucesso: 90% dos empréstimos realizados pelo sistema no 1º mês.
 
-
 ---
 
 ## 2. Diagrama de Caso de Uso
@@ -96,7 +95,6 @@ Representação estática em UML das **classes, atributos, métodos e relacionam
 
 /docs/04-diagrama-classes.png
 
-
 ---
 
 ## 5. Documento de Arquitetura do Sistema
@@ -123,7 +121,6 @@ Persistência (MySQL)
 Integrações: API de Pagamento
 Segurança: Autenticação com JWT
 
-
 ---
 
 ## 6. Protótipo do Sistema
@@ -139,7 +136,6 @@ Protótipo visual ou navegável que representa a interface do sistema.
 📷 **Adicionar protótipo aqui:**  
 /docs/06-prototipo.pdf
 
-
 ---
 
 ## ✅ Organização no GitHub
@@ -147,7 +143,7 @@ Estrutura de diretórios sugerida:
 
 /docs
 
-├── 01-visao-sistema.md
+├── 01-visao-sistema.md (01-visao-sistema.md) 
 
 ├── 02-diagrama-caso-uso.png
 
