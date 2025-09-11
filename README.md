@@ -143,7 +143,7 @@ Estrutura de diretórios sugerida:
 
 /docs
 
-├── 01-visao-sistema.md (01-visao-sistema.md) 
+├── [01-visao-sistema.md](01-visao-sistema.md)
 
 ├── 02-diagrama-caso-uso.png
 
