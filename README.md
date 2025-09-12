@@ -74,7 +74,7 @@ Representação UML das **funcionalidades principais** e **atores envolvidos**.
 - Casos de Uso: Realizar Login, Consultar Livro, Efetuar Empréstimo, Cadastrar Livro.  
 
 📷 **Adicionar aqui o diagrama:**  
-/docs/02-diagrama-caso-uso.png
+
 
 ---
 
@@ -111,7 +111,7 @@ Representação estática em UML das **classes, atributos, métodos e relacionam
 
 📷 **Adicionar aqui o diagrama:**  
 
-/docs/04-diagrama-classes.png
+
 
 ---
 
@@ -152,7 +152,7 @@ Protótipo visual ou navegável que representa a interface do sistema.
 - Salvar em PDF ou imagem.  
 
 📷 **Adicionar protótipo aqui:**  
-/docs/06-prototipo.pdf
+
 
 ---
 
