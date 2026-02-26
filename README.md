@@ -49,14 +49,6 @@ Documento inicial que descreve **objetivos, escopo, usuários e restrições** d
 - Restrições: limitações técnicas, prazos etc.  
 - Critérios de sucesso: como medir se o sistema atendeu ao objetivo.  
 
-📄 **Exemplo (preencher no projeto real):**  
-Sistema: Gestão de Biblioteca Online
-Objetivo: Permitir cadastro e empréstimo de livros digitalmente.
-Stakeholders: Alunos, Bibliotecários, Professores.
-Escopo: Cadastrar usuários, gerenciar livros, controlar empréstimos e devoluções.
-Restrições: Disponível apenas via web.
-Critérios de sucesso: 90% dos empréstimos realizados pelo sistema no 1º mês.
-
 ---
 
 ## 2. Diagrama de Caso de Uso
