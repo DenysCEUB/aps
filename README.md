@@ -154,7 +154,7 @@ Estrutura de diretórios sugerida:
 
 Arquivos de Markdown do GitHub para o aluno utilizar obrigatoriamente no seu projeto.
 
-├── [0. Briefing](0-briefing.md)
+├── [0. Briefing](00-briefing.md)
 
 ├── [1. Documento de Visão do Sistema](01-visao-sistema.md)
 
