@@ -27,12 +27,13 @@ Alunos: RA Nome completo e-mail sempreceub
 ---
 
 ## 📑 Sumário
-1. [Documento de Visão do Sistema](#1-documento-de-visão-do-sistema)  
-2. [Diagrama de Caso de Uso](#2-diagrama-de-caso-de-uso)  
-3. [Especificação de Caso de Uso](#3-especificação-de-caso-de-uso)  
-4. [Diagrama de Classe](#4-diagrama-de-classe)  
-5. [Documento de Arquitetura do Sistema](#5-documento-de-arquitetura-do-sistema)  
-6. [Protótipo do Sistema](#6-protótipo-do-sistema)  
+1. [Briefing](#0-briefing)
+2. [Documento de Visão do Sistema](#1-documento-de-visão-do-sistema)  
+3. [Diagrama de Caso de Uso](#2-diagrama-de-caso-de-uso)  
+4. [Especificação de Caso de Uso](#3-especificação-de-caso-de-uso)  
+5. [Diagrama de Classe](#4-diagrama-de-classe)  
+6. [Documento de Arquitetura do Sistema](#5-documento-de-arquitetura-do-sistema)  
+7. [Protótipo do Sistema](#6-protótipo-do-sistema)  
 
 ---
 
@@ -152,6 +153,8 @@ Protótipo visual ou navegável que representa a interface do sistema.
 Estrutura de diretórios sugerida:
 
 Arquivos de Markdown do GitHub para o aluno utilizar obrigatoriamente no seu projeto.
+
+├── [0. Briefing](0-briefing.md)
 
 ├── [1. Documento de Visão do Sistema](01-visao-sistema.md)
 
