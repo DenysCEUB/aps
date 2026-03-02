@@ -37,6 +37,36 @@ Alunos: RA Nome completo e-mail sempreceub
 
 ---
 
+## 0. Briefing
+Um briefing é um documento curto e claro que reúne todas as informações necessárias para orientar a equipe no início do projeto. 
+Ele evita divergências e garante que todos entendam o que será feito, por quê, para quem e como.
+Segue a estrutura do Briefing para o projeto.
+
+**1 - Informações gerais**  
+1.1 - Nome do sistema:  
+1.2 - Nome da equipe:  
+
+**2 - Problema e/ou necessidade**  (explique claramente)  
+2.1 - Qual é o problema e/ou necessidade que o software deve resolver:  
+2.2 - Quais são as dores dos usuários:  
+2.3 - O que acontece hoje sem o sistema:  
+
+**3 - Escopo funcional do sistema** (O que o sistema deve fazer)    
+3.1 - Principal objetivo do sistema:  
+3.2 - Funcionalidades específicas (secundárias) do sistema:  
+
+**4. Escopo não funcional** (Liste os critérios técnicos e de qualidade)   
+
+**5. Usuários** (Liste os principais usuário do sistema)    
+
+**6. Entregáveis** (Manter os artefatos abaixo. Não é necessário editar este tópico)
+• Documento de Visão do Sistema  
+• Diagrama de Caso de Uso  
+• Especificação de Caso de Uso  
+• Diagrama de Classe  
+• Documento de Arquitetura do Sistema  
+• Protótipo do Sistema  
+
 ## 1. Documento de Visão do Sistema
 
 📌 **O que é:**  
